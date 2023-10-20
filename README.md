@@ -18,6 +18,9 @@ Welcome to the PDF Quiz Exporter for Socrative, a handy tool that allows you to 
 
 The resulting PDF file, "QuizInfo.pdf," contains comprehensive information about the quiz, encompassing its title, unique ID, and the individual questions with their respective answers. HTML-encoded entities are seamlessly decoded for enhanced readability.
 
+**Here's a screenshot of the application in action:**
+![image](https://github.com/qzxtu/PDF-Quiz-Exporter-for-Socrative/assets/69091361/a7b5c13f-204e-4802-b148-93cd41694d6b)
+
 ## Credits
 
 This project leverages the powerful iTextSharp library to create PDF files, ensuring a professional and organized presentation of quiz data.
