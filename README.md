@@ -21,6 +21,9 @@ The resulting PDF file, "QuizInfo.pdf," contains comprehensive information about
 **Here's a screenshot of the application in action:**
 ![image](https://github.com/qzxtu/PDF-Quiz-Exporter-for-Socrative/assets/69091361/a7b5c13f-204e-4802-b148-93cd41694d6b)
 
+**And here's a screenshot of the generated PDF output:**
+![image](https://github.com/qzxtu/PDF-Quiz-Exporter-for-Socrative/assets/69091361/7537a264-dd45-4497-bdef-1191bce3cb68)
+
 ## Credits
 
 This project leverages the powerful iTextSharp library to create PDF files, ensuring a professional and organized presentation of quiz data.
